@@ -5,7 +5,7 @@
 ## Building
 
 Building this project requires having your preferred
-C compiler, and `make` installed on your systerm. The
+C compiler, and `make` installed on your system. The
 project can be compiled with a simple command
 
     make
